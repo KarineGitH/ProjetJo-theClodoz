@@ -1,2 +1,2 @@
 # ProjetJo-theClodoz
-projet fictif d'un festival musical
+projet fictif d'un festival musical estival
